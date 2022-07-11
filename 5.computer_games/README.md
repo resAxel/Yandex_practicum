@@ -31,3 +31,4 @@ Rating — рейтинг от организации ESRB (англ. Entertainm
 *scipy*  
 *numpy*  
 *matplotlib*  
+*seaborn*
