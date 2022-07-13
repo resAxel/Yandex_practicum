@@ -6,7 +6,7 @@
 # Данные   
 Данные находятся в трёх файлах:  
 •	gold_recovery_train_new.csv — обучающая выборка  
-•	gold_recovery_test_new.csv — тестовая выборка 
+•	gold_recovery_test_new.csv — тестовая выборка  
 •	gold_recovery_full_new.csv — исходные данные.
 
 
